@@ -1,0 +1,8 @@
+C:/Users/jburt/Desktop/Project3-Games/Memory_Unity-2/.utmp/RelWithDebInfo/6z2s1s3c/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/jburt/Desktop/Project3-Games/Memory_Unity-2/.utmp/RelWithDebInfo/6z2s1s3c/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/jburt/Desktop/Project3-Games/Memory_Unity-2/.utmp/RelWithDebInfo/6z2s1s3c/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/jburt/Desktop/Project3-Games/Memory_Unity-2/.utmp/RelWithDebInfo/6z2s1s3c/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/jburt/Desktop/Project3-Games/Memory_Unity-2/.utmp/RelWithDebInfo/6z2s1s3c/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+C:/Users/jburt/Desktop/Project3-Games/Memory_Unity-2/.utmp/RelWithDebInfo/6z2s1s3c/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/jburt/Desktop/Project3-Games/Memory_Unity-2/.utmp/RelWithDebInfo/6z2s1s3c/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/jburt/Desktop/Project3-Games/Memory_Unity-2/.utmp/RelWithDebInfo/6z2s1s3c/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
