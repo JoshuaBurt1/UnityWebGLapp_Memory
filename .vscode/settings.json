@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Memory_Unity-2D.sln"
+    "dotnet.defaultSolution": "Memory_Unity-2D-web.sln"
 }
